@@ -193,7 +193,7 @@ header li:hover a {
 
 /* START Home */
 .home {
-    background-image: url('/images/about.jpg');
+    background-image: url('images/about.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
